@@ -16,5 +16,7 @@ I was ranked 9th and 2nd for the 1st and second leaderboard respectively.
 |:----------------|:-----------------------|:--------------------|:--------------------|
 | 1 (5-June)      | 0.8707 (LightGBM)      | 0.864667 (-0.006)   | 9   |
 | 2 (12-June)     | 0.9044 (SVC, "tuned")  | 0.892888 (-0.1212)  | 2   |
+| 3 (17-June, final subimssion)     | 0.9056 (SVC, "tuned", reduced features)  | ?  | ?   |
+
 
 
