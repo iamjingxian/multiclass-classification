@@ -1,5 +1,5 @@
-# dsa5202-advanced-ml-topics
-multiclass classification; data with unknown origin
+#### multiclass classification; data with unknown origin
+dsa5202 - advanced topics in ml
 
 This was a project (individual) for class dsa5202 (June-2023), with a kaggle-like component. A dataset was provided, with input dimension 400 and output dimension 9. The task consisted of building a model that learns how to classify this dataset. For fairness, the dataset was anonymized. 
 
