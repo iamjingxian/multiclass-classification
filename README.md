@@ -19,3 +19,7 @@ I was ranked 9th and 2nd for the 1st and 2nd leaderboard respectively.
 | 2 (12-June)                   | 0.9044 (SVC, "tuned")                   | 0.892888 (-0.1212)                   | 2                |
 | 3 (17-June, final submission) | 0.9056 (SVC, "tuned", reduced features) | NA                                   | NA               |
 
+For this work, I obtained 17.19 (out of 20)
+Score distribution is as follows:
+mean: 16.13; high: 17.27; low: 10
+median: 16.45; upper quartile: 16.18; lower quartile, 16.07
